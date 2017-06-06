@@ -1,0 +1,7 @@
+{
+  "require-dev": {
+    "phalcon/devtools": "dev-master",
+    "guzzlehttp/guzzle": "~6.0@dev",
+    "phpunit/phpunit": "5.5.*"
+  }
+}
